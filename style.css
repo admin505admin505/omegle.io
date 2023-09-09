@@ -36,7 +36,6 @@ header{
   color:cyan;
 }
 
-/* styles.css */
 .banner {
     position: fixed;
     bottom: 0;
@@ -66,3 +65,4 @@ header{
     margin: 10px;
     cursor: pointer;
 }
+
